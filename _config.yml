@@ -11,9 +11,9 @@ title                    : "Rob Williams"
 title_separator          : "-"
 name                     : &name "Rob Williams"
 description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isxiawang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "isxiawang/isxiawang.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : isxiawang
 
 
 # Site Author
@@ -101,8 +101,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "isxiawang"
+  gitlab           : "isxiawang"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   mastodon         : "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : #"https://stackoverflow.com/users/10912314/isxiawang"
   steam            :
   tumblr           :
   twitter          : 
