@@ -8,21 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
-
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
+I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
+in 2019 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) 
+and [Prof. Guodao Sun](https://godoorsun.org/). 
+My research interests are **interactive machine learning**, **image/video analysis**, and **information visualization**. 
+If you are interested in my research, please feel free to contact me via xiawangww[at]foxmail.com.
+More information will be update soon.
