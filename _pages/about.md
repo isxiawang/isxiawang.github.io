@@ -58,12 +58,11 @@ More information will be update soon.
 # 💬 Service
 
 ## Volunteer
+- ChinaVis 2020
 
 ## Conference Reviewer
-- VIS Short Papers (2024)
-- CHI Late-Breaking Work (2024)
-- EuroVis Papers (2023)
-- ChinaVis Papers (2023-2024)
+- IEEE TCSVT (2024)
+- ChinaVis Papers (2022-2024)
 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
