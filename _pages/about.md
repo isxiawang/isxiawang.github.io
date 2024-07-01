@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! This is Jingwei Tang (汤井威), a Ph.D student in Zhejiang University of Technology, under the supervision of Prof. Guodao Sun, affiliated with ZJUTVIS Group. 
-
-My research interest is to democratize visual data analysis and communication through the intersection of Data Science (DS), Artificial Intelligence (AI), Visualization (VIS), and Human-Computer Interaction (HCI). 
-
-If you are interested in my research, please feel free to contact me via eejwtang[at]gmail.com.
-
+Hi, there! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
+I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
+in 2019 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) 
+and [Prof. Guodao Sun](https://godoorsun.org/). 
+My research interests are **interactive machine learning**, **image/video analysis**, and **information visualization**. 
+If you are interested in my research, please feel free to contact me via xiawangww[at]foxmail.com.
 More information will be update soon.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -64,8 +64,6 @@ More information will be update soon.
 - IEEE TCSVT (2024)
 - ChinaVis Papers (2022-2024)
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
