@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
-    url: /research/
+  - title: "Future Work"
+    url: /future work/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Talks"
+    url: /Talks/
 
-  - title: "Software"
+  - title: "Projects"
     url: /software/
 
-  - title: "Posts"
+  - title: "Life"
     url: /posts/
-    
-  - title: "CV"
-    url: /cv/
+
+
+
