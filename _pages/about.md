@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
+👋Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
 I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
 in 2019 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) 
 and [Prof. Guodao Sun](https://godoorsun.org/). 
