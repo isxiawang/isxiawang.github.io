@@ -67,7 +67,7 @@ Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR),
 
 - ### *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Zhejiang University of Technology. <br>
 
-Review
+# 💬 Review
 ======
 <strong>China Vis</strong> 2022, 2023, 2024
 
