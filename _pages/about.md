@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 👋 Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
 I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
 in 2019 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) 
@@ -33,8 +32,9 @@ More information will be update soon.
 
 **<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
 
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_
 
-[[paper]](https://chinavis.org/2024/paper.html) [[pdf]](/pdf/Tang,_Jingwei_et_al_ASRelVis_2024.pdf) [[bib]]()
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
 
 
 
