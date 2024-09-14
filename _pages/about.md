@@ -27,7 +27,7 @@ More information will be update soon.
 <img src='images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
 </div>
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" >
 **Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation**
 
 **<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
