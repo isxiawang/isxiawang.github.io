@@ -19,7 +19,7 @@ More information will be update soon.
 
 
 # 📝 Publications
-## 2024
+### 2024
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
