@@ -18,7 +18,7 @@ My research interests are **interactive machine learning**, **image/video analys
 More information will be update soon.
 
 
-# 📝 Publications
+# 📝 Selected Publications
 ## 2024
 
 <div class='paper-box'>
