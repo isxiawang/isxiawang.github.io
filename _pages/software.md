@@ -1,7 +1,7 @@
 ---
 permalink: /software/
 title: "Life"
-gallery_talk:
+gallery_icmr2024:
   - url: software/icmr_talk1.jpg
     image_path: software/icmr_talk1.jpg
     alt: ""
@@ -35,16 +35,23 @@ gallery_painting:
 
 As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
 
-# BayesPostEst
+# Academic conferences
 
 I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
 
-{% include gallery_painting %}
+{% include gallery_icmr2024 %}
+
+{% include gallery_chinavis2024 %}
 
 
 
 # Interests
 
-I love painting!
+## 🎨 painting
 
-{% include gallery_talk %}
+{% include gallery_painting %}
+
+
+
+
+
