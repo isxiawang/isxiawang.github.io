@@ -32,7 +32,7 @@ More information will be update soon.
 <div class='paper-box-text' markdown="1" >
 **Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation**
 
-**<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
+**<u>Wang Xia</u>**, Guodao Sun*, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
 
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_
 
@@ -52,7 +52,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _E
 <div class='paper-box-text' markdown="1" >
 **RE-IDVIS: Person Re-Identification System based on Interactive Visualization**
 
-**<u>Wang Xia</u>**, Guodao Sun, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang
+**<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang
 
 Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024.
 
