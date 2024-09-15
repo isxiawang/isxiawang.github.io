@@ -16,9 +16,9 @@ author_profile: true
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
-**Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation** 
-**<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang 
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_ 
+**Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation** <br>
+**<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_ <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
 
 </div>
@@ -33,9 +33,9 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _E
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
-**RE-IDVIS: Person Re-Identification System based on Interactive Visualization** 
-**<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang 
-Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024. 
+**RE-IDVIS: Person Re-Identification System based on Interactive Visualization** <br>
+**<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang <br>
+Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024. <br>
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657595) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657595) [[bib]]()
 
 </div>
