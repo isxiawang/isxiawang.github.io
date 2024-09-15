@@ -82,13 +82,13 @@ arXiv preprint, 2022. <br>
 <div class='paper-box-image'>
 <div>
 <div class="badge">TBD 2021</div>
-<img src='/images/paper_asrelvis_TVCG21.jpg' alt="sym" width="100%">
+<img src='/images/paper_asrelvis_TBD21.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
 **EvoSets: Tracking the sensitivity of dimensionality reduction results across subspaces** <br>
 Guodao Sun, Sujia Zhu, Qi Jiang, **<u>Wang Xia</u>**, Ronghua Liang <br>
 IEEE Transactions on Big Data, 2022. <br>
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9428524/) [[pdf]](https://drive.google.com/file/d/1GbBmhrAXfRFk7F-WBb2rxpCIGdrxeb8k/view?pli=1) [[bib]]()
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9428524/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428524) [[bib]]()
 </div>
 </div>
