@@ -19,6 +19,14 @@ gallery_icmr2024:
      image_path: software/icmr_talk4.jpg
      alt: ""
      title: ""
+ - url: software/icmr1.jpg
+      image_path: software/icmr_talk4.jpg
+      alt: ""
+      title: ""
+ - url: software/icmr2.jpg
+       image_path: software/icmr_talk5.jpg
+       alt: ""
+       title: ""
 gallery_chinavis2020:
   - url: software/Chinavis2020.jpg
     image_path: software/Chinavis2020.jpg
