@@ -20,7 +20,6 @@ author_profile: true
 **<u>Wang Xia</u>**, Guodao Sun*, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang <br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_ <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
-
 </div>
 </div>
 
@@ -37,11 +36,31 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _E
 **<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang <br>
 Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024. <br>
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657595) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657595) [[bib]]()
-
 </div>
 </div>  
 
 
 ## 2023
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCSVT 2024</div>
+<img src='/images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation** <br>
+**<u>Wang Xia</u>**, Guodao Sun*, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_ <br>
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
+</div>
+</div>
+
+
 ## 2022
+
+
+
+
 ## 2021
