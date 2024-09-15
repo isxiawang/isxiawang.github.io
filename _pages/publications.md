@@ -19,7 +19,7 @@ author_profile: true
 **Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation** <br>
 **<u>Wang Xia</u>**, Guodao Sun*, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang <br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_ <br>
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]](/files/IEEE Xplore Citation BibTeX Download 2024.9.15.17.25.41)
 </div>
 </div>
 
