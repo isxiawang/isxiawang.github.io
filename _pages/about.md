@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="background-color: #f3ebeb; padding: 10px; ">
+<div style="background-color: #f6f1f1; padding: 10px; ">
 👋 Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
 I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
 in 2019 and under the supervision of <a href="https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en">Prof. Ronghua Liang </a>
