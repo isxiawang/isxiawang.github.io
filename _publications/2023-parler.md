@@ -1,11 +1,24 @@
+
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICMR 2024</div>
+<img src='images/paper_asrelvis_ICMR24.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**RE-IDVIS: Person Re-Identification System based on Interactive Visualization**
+
+**<u>Wang Xia</u>**, Guodao Sun, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang
+
+Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024.
+
+</div>
+</div>  
 ---
-title: "They're Still There, He's All Gone: American Fatalities in Foreign Wars and Right-Wing Radicalization at Home"
-collection: publications
-permalink: /publication/2023-parler
-date: 2023-10-01
-venue: 'American Political Science Review'
-paperurl: "/files/pdf/research/They're Still Here.pdf"
-link: 'https://doi.org/10.1017/S0003055423000904'
-code: 'https://doi.org/10.7910/DVN/4GLPII'
-citation: "McAlexander, Richard J., Michael A. Rubin, and Rob Williams. FirstView. &quot;They're Still There, He's All Gone: American Fatalities in Foreign Wars and Right-Wing Radicalization at Home.&quot; <i>American Political Science Review</i>. doi:10.1017/S0003055423000904"
+link: 'https://dl.acm.org/doi/abs/10.1145/3652583.3657595'
+paperurl: "https://dl.acm.org/doi/pdf/10.1145/3652583.3657595"
 ---
