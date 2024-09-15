@@ -12,7 +12,7 @@ author_profile: true
 <div class='paper-box-image'>
 <div>
 <div class="badge">TCSVT 2024</div>
-<img src='images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
+<img src='/images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
