@@ -4,11 +4,11 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /software/
+    url: /posts/
 
 
   - title: "Life"
-    url: /posts/
+    url: /software/
 
 
 
