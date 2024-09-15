@@ -16,7 +16,6 @@ My research interests are **interactive machine learning**, **image/video analys
 😊 Please feel free to look around and contact me if you have any comments!  
 <img src="/images/email.png" width="25px" height="25px"> <a href="mailto:xiawang@zjut.edu.cn"> xiawang [at] zjut.edu.cn</a> | <a href="mailto:xiawangww [at] foxmail.com"> xiawangww [at] foxmail.com</a>.  
 More information will be update soon.  
----
 <br/>
 
 # 📝 Selected Publications ([full list](https://isxiawang.github.io/publications/))
@@ -68,9 +67,9 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 # 📖 Experience
 ***
 
-- ### *2019.09 - now*, Zhejiang University of Technology. <br>
-*Ph.D* in Computer Science and Technology  
-- ### *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Zhejiang University of Technology. <br>  
+-  <strong>*2019.09 - now*, Zhejiang University of Technology.</strong> <br>
+*Ph.D* in Computer Science and Technology <br>
+-  <strong>*2015.09 - 2019.06*, B.E. in Computer Science and Technology, Zhejiang University of Technology.</strong> <br>  
 <br/>
 
 
