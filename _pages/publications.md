@@ -6,6 +6,28 @@ author_profile: true
 ---
 
 
+## 2024
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCSVT 2024</div>
+<img src='images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation**
+
+**<u>Wang Xia</u>**, Guodao Sun, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
+
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_
+
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
+
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
