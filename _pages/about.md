@@ -54,7 +54,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _E
 
 **<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Haoran Liang, Ronghua Liang
 
-Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR), 2024.
+Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024.
 
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657595) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657595) [[bib]]()
 
