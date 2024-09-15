@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /software/
 title: "Life"
 gallery_icmr2024:
@@ -18,6 +19,30 @@ gallery_icmr2024:
      image_path: software/icmr_talk4.jpg
      alt: ""
      title: ""
+gallery_chinavis2020:
+  - url: software/Chinavis2020.jpg
+    image_path: software/Chinavis2020.jpg
+    alt: ""
+    title: ""
+  - url: software/Chinavis2020_zyz.jpg
+    image_path: software/Chinavis2020_zyz.jpg
+    alt: ""
+    title: ""
+gallery_chinavis2022:
+  - url: software/Chinavis2022.jpg
+    image_path: software/Chinavis2022.jpg
+    alt: ""
+    title: ""
+gallery_chinavis2023:
+  - url: software/Chinavis2023.jpg
+    image_path: software/Chinavis2023.jpg
+    alt: ""
+    title: ""
+gallery_chinavis2024:
+  - url: software/Chinavis2024.jpg
+    image_path: software/Chinavis2024.jpg
+    alt: ""
+    title: ""
 gallery_painting:
   - url: software/p1.jpg
     image_path: software/p1.jpg
@@ -31,22 +56,61 @@ gallery_painting:
      image_path: software/p3.jpg
      alt: ""
      title: ""
+gallery_photography:
+  - url: software/photo1.jpg
+    image_path: software/photo1.jpg
+    alt: ""
+    title: ""
+  - url: software/photo2.jpg
+      image_path: software/photo2.jpg
+      alt: ""
+      title: ""
+  - url: software/photo3.jpg
+        image_path: software/photo3.jpg
+        alt: ""
+        title: ""
+  - url: software/photo4.jpg
+        image_path: software/photo4.jpg
+        alt: ""
+        title: ""
+  - url: software/photo5.jpg
+          image_path: software/photo5.jpg
+          alt: ""
+          title: ""
+  - url: software/photo6.jpg
+          image_path: software/photo6.jpg
+          alt: ""
+          title: ""
 ---
 
 
 # Academic conferences
 
-I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
-
+## ICMR 2024
 {% include gallery_icmr2024 %}
 
+## ChinaVis 2024
+{% include gallery_chinavis2024 %}
+
+## ChinaVis 2023
+{% include gallery_chinavis2024 %}
+
+## ChinaVis 2022
+{% include gallery_chinavis2024 %}
+
+## ChinaVis 2020
 {% include gallery_chinavis2024 %}
 
 
 
 # Interests
 
-## 🎨 painting
+## 🎨 Painting
+
+{% include gallery_painting %}
+
+
+## 📷 Photography
 
 {% include gallery_painting %}
 
