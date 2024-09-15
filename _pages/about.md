@@ -16,7 +16,7 @@ My research interests are **interactive machine learning**, **image/video analys
 😊 Please feel free to look around and contact me if you have any comments!  
 <img src="/images/email.png" width="25px" height="25px"> <a href="mailto:xiawang@zjut.edu.cn"> xiawang [at] zjut.edu.cn</a> | <a href="mailto:xiawangww [at] foxmail.com"> xiawangww [at] foxmail.com</a>.  
 More information will be update soon.  
-***
+##
 <br/>
 
 # 📝 Selected Publications ([full list](https://isxiawang.github.io/publications/))
