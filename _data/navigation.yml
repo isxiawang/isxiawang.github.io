@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Future Work"
-    url: /future work/
 
   - title: "Talks"
     url: /Talks/
