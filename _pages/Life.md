@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /software/
+permalink: /Life/
 title: "Life"
 gallery_icmr2024:
   - url: software/icmr_talk1.jpg
