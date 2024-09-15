@@ -14,7 +14,7 @@ in 2019 and under the supervision of <a href="https://scholar.google.com/citatio
 and <a href="https://godoorsun.org/">Prof. Guodao Sun </a>. 
 My research interests are <Strong>interactive machine learning</Strong>, <Strong>image/video analysis</Strong>, and <Strong>information visualization</Strong>. <br>  
 😊 Please feel free to look around and contact me if you have any comments!  <br> 
-<img src="/images/email.png" width="25px" height="25px"> <a href="mailto:xiawang@zjut.edu.cn"> xiawang [at] zjut.edu.cn</a> | <a href="mailto:xiawangww [at] foxmail.com"> xiawangww [at] foxmail.com</a>.  
+<img src="/images/email.png" width="25px" height="25px"> <a href="mailto:xiawang@zjut.edu.cn"> xiawang [at] zjut.edu.cn</a> | <a href="mailto:xiawangww [at] foxmail.com"> xiawangww [at] foxmail.com</a>.  <br> 
 More information will be update soon.  
 </div>
 <br/>
