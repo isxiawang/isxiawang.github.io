@@ -19,7 +19,7 @@ More information will be update soon.
 </div>
 <br/>
 
-# 📝 Selected Publications ([full list](https://isxiawang.github.io/publications/))
+# 📝 Selected Publications <span style="font-size: '15px';">([full list](https://isxiawang.github.io/publications/))</span>
 ## 2024
 
 <div class='paper-box'>
