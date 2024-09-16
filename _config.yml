@@ -249,6 +249,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _Life
+  - scope:
+      path: ""
+      type: Life
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
