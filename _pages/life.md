@@ -36,7 +36,7 @@ gallery4:
     alt: ""
     title: ""
   - url: software/Chinavis2020_zyz.jpg
-    image_path: software/Chinavis2020_zyz.jpg
+    image_path: software/chinavis2020zyz.jpg
     alt: ""
     title: ""
   
