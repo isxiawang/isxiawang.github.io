@@ -78,7 +78,9 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
-<strong>China Vis</strong> 2022, 2023, 2024
+<strong>CHI</strong> 2025
+
+<strong>China Vis</strong> 2022, 2024
 
 
 
