@@ -88,19 +88,19 @@ gallery6:
 ## Academic conferences
 ***
 
-ICMR 2024 • Phuket Thailand 🌴
+ICMR 2024 • 📍 Phuket Thailand 🌴
 {% include gallery id="gallery" %}
 
-ChinaVis 2024 • Hong Kong China
+ChinaVis 2024 • 📍 Hong Kong China
 {% include gallery id="gallery1" %}
 
-ChinaVis 2023 • Chongqing China
+ChinaVis 2023 • 📍 Chongqing China
 {% include gallery id="gallery2" %}
 
-ChinaVis 2022 • Qinghai China
+ChinaVis 2022 • 📍 Qinghai China
 {% include gallery id="gallery3" %}
 
-ChinaVis 2020 • Wuhan China
+ChinaVis 2020 • 📍 Wuhan China
 {% include gallery id="gallery4" %}
 
 ***
