@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Life/
+permalink: /life/
 title: "Life"
 gallery:
   - url: software/icmr_talk2.jpg
