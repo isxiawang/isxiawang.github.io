@@ -91,7 +91,7 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 ***
 <strong>VR</strong> 2025
 
-<strong>CHI</strong> 2025
+<strong>CHI</strong> 2025, <strong>IUI</strong> 2025
 
 <strong>China Vis</strong> 2022, 2024
 
