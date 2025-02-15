@@ -89,9 +89,11 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
+<strong>EuroVis</strong> 2025, <strong>PacificVis</strong> 2025
+
 <strong>VR</strong> 2025
 
-<strong>CHI</strong> 2025, <strong>IUI</strong> 2025
+<strong>CHI</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
 
 <strong>China Vis</strong> 2022, 2024
 
