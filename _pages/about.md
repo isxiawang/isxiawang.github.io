@@ -22,7 +22,8 @@ More information will be update soon.
 
 News (Last Update: 10/12/2024)
 ======
-<strong>[Jul. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>. 🎉                                                                                               
+<strong>[Apr. 2025]</strong> Our paper "A Reflection on Leveraging Vision Language Model for Visual Analysis in Image-Based Person Re-Identification" was accepted by <strong>IEEE PacificVis 2025</strong>. 🎉
+<strong>[Jul. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>. 🎉
 <strong>[Jun. 2024]</strong> I gave a talk of "RE-IDVIS: Person Re-Identification System based on Interactive Visualization" on <strong>ICMR 2024</strong> in Phuket, Thailand 🌴.                                                                                                                                         
 <strong>[Apr. 2024]</strong> Our paper "RE-IDVIS: Person Re-Identification System based on Interactive Visualization" was accepted by <strong>ICMR 2024</strong>. 🎉  
 <strong>[Mar. 2023]</strong> Our paper "Visual interactive image clustering: a target-independent approach for configuration optimization in machine vision measurement" was accepted by <strong>Frontiers of Information Technology & Electronic Engineering</strong>. 🎉  
@@ -89,11 +90,11 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
-<strong>EuroVis</strong> 2025, <strong>PacificVis</strong> 2025
+<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, <strong>PacificVis</strong> 2025
+
+<strong>CHI</strong> 2025, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
 
 <strong>VR</strong> 2025
-
-<strong>CHI</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
 
 <strong>China Vis</strong> 2022, 2024
 
