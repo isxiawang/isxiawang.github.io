@@ -98,5 +98,7 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 <strong>China Vis</strong> 2022, 2024
 
+<strong>IEEE TVCG</strong>, <strong>IEEE TCSVT</strong>
+
 
 
