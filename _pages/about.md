@@ -22,8 +22,8 @@ More information will be update soon.
 
 News (Last Update: 12/31/2025)
 ======
-<strong>[Jul. 2025]</strong>  Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" has been invited to be presented at <strong>Siggraph Asia 2025</strong> in 📍HongKong. 
-<strong>[Jul. 2025]</strong> Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" was accepted by <strong>IEEE Computer Graphics and Applications</strong>. 🎉
+<strong>[Jul. 2025]</strong>  Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" has been invited to be presented at <strong>Siggraph Asia 2025</strong> in 📍HongKong.       
+<strong>[Jul. 2025]</strong> Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" was accepted by <strong>IEEE Computer Graphics and Applications</strong>. 🎉       
 <strong>[Apr. 2025]</strong> Our paper "A Reflection on Leveraging Vision Language Model for Visual Analysis in Image-Based Person Re-Identification" was accepted by <strong>IEEE PacificVis 2025</strong>. 🎉       
 <strong>[Jul. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>. 🎉      
 <strong>[Jun. 2024]</strong> I gave a talk of "RE-IDVIS: Person Re-Identification System based on Interactive Visualization" on <strong>ICMR 2024</strong> in Phuket, Thailand 🌴.                                                                                                                                               
