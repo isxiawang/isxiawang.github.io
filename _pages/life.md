@@ -2,6 +2,11 @@
 layout: archive
 permalink: /life/
 title: "Life"
+gallery7:
+  - url: software/SiggraphAsia2024.jpg
+    image_path: software/SiggraphAsia2024.jpg
+    alt: ""
+    title: ""
 gallery:
   - url: software/icmr_talk2.jpg
     image_path: software/icmr_talk2.jpg
@@ -87,6 +92,8 @@ gallery6:
 ***
 ## Academic conferences
 ***
+Siagraph Asia 2025 • 📍 HongKong
+{% include gallery id="gallery7" %}
 
 ICMR 2024 • 📍 Phuket Thailand 🌴
 {% include gallery id="gallery" %}
