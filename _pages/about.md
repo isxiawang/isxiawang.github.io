@@ -20,8 +20,10 @@ More information will be update soon.
 </div>
 <br/>
 
-News (Last Update: 10/12/2024)
+News (Last Update: 12/31/2025)
 ======
+<strong>[Jul. 2025]</strong>  Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" has been invited to be presented at <strong>Siggraph Asia 2025</strong> in 📍HongKong. 
+<strong>[Jul. 2025]</strong> Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" was accepted by <strong>IEEE Computer Graphics and Applications</strong>. 🎉
 <strong>[Apr. 2025]</strong> Our paper "A Reflection on Leveraging Vision Language Model for Visual Analysis in Image-Based Person Re-Identification" was accepted by <strong>IEEE PacificVis 2025</strong>. 🎉       
 <strong>[Jul. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>. 🎉      
 <strong>[Jun. 2024]</strong> I gave a talk of "RE-IDVIS: Person Re-Identification System based on Interactive Visualization" on <strong>ICMR 2024</strong> in Phuket, Thailand 🌴.                                                                                                                                               
@@ -38,6 +40,27 @@ News (Last Update: 10/12/2024)
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">IEEE CG&A 2025</div>
+<img src='images/paper_asrelvis_CGA25.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models**
+
+**<u>Wang Xia</u>**, Tianci Wang, Jiawei Li, Guodao Sun*, Haidong Gao, Xu Tan, Ronghua Liang
+
+IEEE Computer Graphics and Applications, vol. 45, no. 6, pp. 44-60, 2025.
+
+
+[[paper]]([https://ieeexplore.ieee.org/abstract/document/10584546/](https://ieeexplore.ieee.org/document/11098589/)) [[pdf]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11098589)) [[bib]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">TCSVT 2024</div>
 <img src='images/paper_asrelvis_TCSVT24.jpg' alt="sym" width="100%">
 </div>
@@ -47,7 +70,7 @@ News (Last Update: 10/12/2024)
 
 **<u>Wang Xia</u>**, Guodao Sun*, Tong Li, Baofeng Chang, Jingwei Tang, Gefei Zhang, Ronghua Liang
 
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. _Early Access_
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 34, no. 11, pp. 11316-11339, 2024.
 
 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10584546/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10584546) [[bib]]()
@@ -90,9 +113,9 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
-<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, <strong>PacificVis</strong> 2025
+<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, 2026, <strong>PacificVis</strong> 2025
 
-<strong>CHI</strong> 2025, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
+<strong>CHI</strong> 2025, 2026, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
 
 <strong>VR</strong> 2025
 
