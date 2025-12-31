@@ -92,7 +92,7 @@ gallery6:
 ***
 ## Academic conferences
 ***
-Siagraph Asia 2025 • 📍 HongKong
+SIGGRAPH Asia 2025 • 📍 HongKong
 {% include gallery id="gallery7" %}
 
 ICMR 2024 • 📍 Phuket Thailand 🌴
