@@ -81,7 +81,7 @@ IEEE Computer Graphics and Applications, vol. 45, no. 6, pp. 44-60, 2025.
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">PVis 2025</div>
+<div class="badge">PacificVis 2025</div>
 <img src='images/paper_asrelvis_PVis25.jpg' alt="sym" width="100%">
 </div>
 </div>
