@@ -5,6 +5,67 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CGF 2026</div>
+<img src='images/paper_asrelvis_CGF26.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**Enhanced Visual Exploration and Interactive Retrieval of Pedestrian Images With Incremental User Feedback**
+
+**<u>Wang Xia</u>**, Guodao Sun*, Zihao Zhu, Pan Liang, Sujia Zhu, Yiming Wu, Xu Tan, Haidong Gao, Li Jiang, Ronghua Liang
+
+Computer Graphics Forum, 2026.
+
+[[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70313) [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.70313) [[bib]]()
+
+</div>
+</div>  
+
+## 2025
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE CG&A 2025</div>
+<img src='images/paper_asrelvis_CGA25.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models**
+
+**<u>Wang Xia</u>**, Tianci Wang, Jiawei Li, Guodao Sun*, Haidong Gao, Xu Tan, Ronghua Liang
+
+IEEE Computer Graphics and Applications, vol. 45, no. 6, pp. 44-60, 2025.
+
+
+[[paper]](https://ieeexplore.ieee.org/document/11098589/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11098589) [[bib]]()
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">PVis 2025</div>
+<img src='images/paper_asrelvis_PVis25.jpg' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1" >
+**A Reflection on Leveraging Vision Language Model for Visual Analysis in Image-Based Person Re-Identification**
+
+**<u>Wang Xia</u>**, Tianci Wang, Jiawei Li, Guodao Sun*, Ronghua Liang
+
+IEEE Pacific Visualization Conference (PacificVis), 2026.
+
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11021072) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021072) [[bib]]()
+
+</div>
+</div>  
 
 ## 2024
 
