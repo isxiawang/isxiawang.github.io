@@ -11,7 +11,7 @@ author_profile: true
 <div class='paper-box-image'>
 <div>
 <div class="badge">CGF 2026</div>
-<img src='images/paper_asrelvis_CGF26.jpg' alt="sym" width="100%">
+<img src='/images/paper_asrelvis_CGF26.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
@@ -32,7 +32,7 @@ Computer Graphics Forum, 2026.
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE CG&A 2025</div>
-<img src='images/paper_asrelvis_CGA25.jpg' alt="sym" width="100%">
+<img src='/images/paper_asrelvis_CGA25.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
@@ -48,11 +48,13 @@ IEEE Computer Graphics and Applications, vol. 45, no. 6, pp. 44-60, 2025.
 </div>
 </div>
 
+
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge">PacificVis 2025</div>
-<img src='images/paper_asrelvis_PVis25.jpg' alt="sym" width="100%">
+<img src='/images/paper_asrelvis_PVis25.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1" >
