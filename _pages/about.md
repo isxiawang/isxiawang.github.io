@@ -22,6 +22,7 @@ More information will be update soon.
 
 News (Last Update: 12/31/2025)
 ======
+<strong>[Mar. 2026]</strong>  Our paper "Enhanced Visual Exploration and Interactive Retrieval of Pedestrian Images With Incremental User Feedback" has published at <strong>Computer Graphics Forum</strong>. 🎉       
 <strong>[Jul. 2025]</strong>  Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" has been invited to be presented at <strong>SIGGRAPH Asia 2025</strong> in 📍HongKong. 🎉       
 <strong>[Jul. 2025]</strong> Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" was accepted by <strong>IEEE Computer Graphics and Applications</strong>. 🎉       
 <strong>[Apr. 2025]</strong> Our paper "A Reflection on Leveraging Vision Language Model for Visual Analysis in Image-Based Person Re-Identification" was accepted by <strong>IEEE PacificVis 2025</strong>. 🎉       
@@ -113,7 +114,7 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
-<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, 2026, <strong>PacificVis</strong> 2025
+<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, 2026, <strong>PacificVis</strong> 2025, <strong>ICMR</strong> 2026
 
 <strong>CHI</strong> 2025, 2026, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
 
