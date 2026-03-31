@@ -20,7 +20,7 @@ More information will be update soon.
 </div>
 <br/>
 
-News (Last Update: 12/31/2025)
+News (Last Update: 03/31/2026)
 ======
 <strong>[Mar. 2026]</strong>  Our paper "Enhanced Visual Exploration and Interactive Retrieval of Pedestrian Images With Incremental User Feedback" has published at <strong>Computer Graphics Forum</strong>. 🎉       
 <strong>[Jul. 2025]</strong>  Our paper "Enhancing Visual Analysis in Person Re-Identification with Vision-Language Models" has been invited to be presented at <strong>SIGGRAPH Asia 2025</strong> in 📍HongKong. 🎉       
