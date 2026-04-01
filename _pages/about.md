@@ -11,7 +11,7 @@ redirect_from:
 <div style="background-color: #f6f1f1; padding: 10px; ">
 🌹 Welcome! This is Wang Xia (夏旺), a Ph.D student in Zhejiang University of Technology. 
 I joined the Data Visualization Group at Zhejiang University of Technology (ZjutVis) 
-in 2019 and under the supervision of <a href="https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en">Prof. Ronghua Liang </a>
+in 2019 and under the supervision of <a https://www.zust.edu.cn/info/1016/16168.htm">Prof. Ronghua Liang </a>
 and <a href="https://godoorsun.org/">Prof. Guodao Sun </a>. 
 My research interests are <Strong>interactive machine learning</Strong>, <Strong>image/video analysis</Strong>, and <Strong>information visualization</Strong>. <br>  
 😊 Please feel free to look around and contact me if you have any comments!  <br> 
