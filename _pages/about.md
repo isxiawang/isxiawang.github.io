@@ -153,15 +153,14 @@ Proceedings of the International Conference on Multimedia Retrieval (ICMR), 2024
 
 # 💬 Review
 ***
-<strong>IEEE VIS</strong> 2025, <strong>EuroVis</strong> 2025, 2026, <strong>PacificVis</strong> 2025, <strong>ICMR</strong> 2026
+<strong>IEEE VIS</strong> 2025, 2026, <strong>EuroVis</strong> 2025, 2026, <strong>PacificVis</strong> 2025, <strong>ICMR</strong> 2026
 
-<strong>CHI</strong> 2025, 2026, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, <strong>CSCW</strong> 2025
-
-<strong>VR</strong> 2025
-
-<strong>China Vis</strong> 2022, 2024
+<strong>CHI</strong> 2025, 2026, <strong>UIST</strong> 2025, <strong>IUI</strong> 2025, 2026, <strong>CSCW</strong> 2025, <strong>VR</strong> 2025
 
 <strong>IEEE TVCG</strong>, <strong>IEEE TCSVT</strong>
+
+<strong>China Vis</strong> 2022, 2024, 2026
+
 
 
 
